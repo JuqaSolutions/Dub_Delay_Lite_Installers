@@ -9,5 +9,5 @@ The pre release are here:
 
 If you find a bug, you can report it on the Discord server to help us to fix it:
 
-[Juqa Solutions Discord Server](https://discord.gg/pdzSCrkN)
+[Juqa Solutions Discord Server](https://discord.gg/u9xaqs3qk4)
 
